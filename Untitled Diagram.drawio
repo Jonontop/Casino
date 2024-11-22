@@ -23,7 +23,7 @@
           <mxGeometry x="220" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ubzzAwV9C2eJGw6YLmtb-5" value="Marketing/ADS" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="970" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ubzzAwV9C2eJGw6YLmtb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ubzzAwV9C2eJGw6YLmtb-7" target="ubzzAwV9C2eJGw6YLmtb-10">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="30" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ubzzAwV9C2eJGw6YLmtb-10" value="Home Page" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-540" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ubzzAwV9C2eJGw6YLmtb-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ubzzAwV9C2eJGw6YLmtb-12" target="ubzzAwV9C2eJGw6YLmtb-77">
           <mxGeometry relative="1" as="geometry" />
